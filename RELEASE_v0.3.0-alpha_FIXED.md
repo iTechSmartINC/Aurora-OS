@@ -247,7 +247,7 @@ Found a bug? Help us improve:
 - **Python:** https://python.org (PSF License)
 - **Llama/Ollama:** https://ollama.ai
 - **systemd:** https://systemd.io
-- **Aurora Team:** https://github.com/Iteksmart
+- **Aurora Team:** https://github.com/iTechSmartINC
 
 ---
 

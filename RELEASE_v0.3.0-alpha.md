@@ -182,7 +182,7 @@ Build time: ~20-30 minutes (depending on system)
 - **Linux Kernel:** kernel.org
 - **Python:** python.org
 - **Llama/Ollama:** ollama.ai
-- **Aurora Team:** github.com/Iteksmart
+- **Aurora Team:** github.com/iTechSmartINC
 
 ---
 
