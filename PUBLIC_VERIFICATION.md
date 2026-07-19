@@ -12,7 +12,7 @@
 ### 1. ✅ Bootable ISO Files
 
 **Location:** GitHub Releases  
-**URL:** https://github.com/Iteksmart/Aurora-OS/releases/tag/v0.3.0-alpha
+**URL:** https://github.com/iTechSmartINC/Aurora-OS/releases/tag/v0.3.0-alpha
 
 **Available Downloads:**
 - ✅ `aurora-os-ultimate-complete.iso` (519 MB) - **RECOMMENDED**
@@ -23,7 +23,7 @@
 
 **Direct Download:**
 ```bash
-wget https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso
+wget https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso
 sha256sum -c aurora-os-ultimate-complete.iso.sha256
 ```
 
@@ -35,7 +35,7 @@ sha256sum -c aurora-os-ultimate-complete.iso.sha256
 - **Location:** Release artifacts
 - **File:** `vmlinuz` (5.7 MB)
 - **Version:** Linux 6.1.115 LTS
-- **Download:** https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/vmlinuz
+- **Download:** https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/vmlinuz
 
 **Kernel Source Code:**
 - **Location:** `/kernel/` directory in repository
@@ -55,7 +55,7 @@ sha256sum -c aurora-os-ultimate-complete.iso.sha256
 
 #### Build ISO Workflow
 - **File:** `.github/workflows/build-iso.yml`
-- **URL:** https://github.com/Iteksmart/Aurora-OS/blob/main/.github/workflows/build-iso.yml
+- **URL:** https://github.com/iTechSmartINC/Aurora-OS/blob/main/.github/workflows/build-iso.yml
 - **Triggers:** 
   - Push to main branch
   - Manual dispatch
@@ -65,7 +65,7 @@ sha256sum -c aurora-os-ultimate-complete.iso.sha256
 
 #### Verification Workflow  
 - **File:** `.github/workflows/verify.yml`
-- **URL:** https://github.com/Iteksmart/Aurora-OS/blob/main/.github/workflows/verify.yml
+- **URL:** https://github.com/iTechSmartINC/Aurora-OS/blob/main/.github/workflows/verify.yml
 - **Runs on:** Every push and PR
 - **Verifies:** 
   - Build scripts syntax
@@ -74,14 +74,14 @@ sha256sum -c aurora-os-ultimate-complete.iso.sha256
   - Artifact integrity
 
 **View Workflow Runs:**
-https://github.com/Iteksmart/Aurora-OS/actions
+https://github.com/iTechSmartINC/Aurora-OS/actions
 
 ---
 
 ### 4. ✅ Source Code Structure
 
 **Repository Browser:**
-https://github.com/Iteksmart/Aurora-OS
+https://github.com/iTechSmartINC/Aurora-OS
 
 **Key Directories:**
 
@@ -124,10 +124,10 @@ curl -s https://api.github.com/repos/Iteksmart/Aurora-OS/releases/latest | jq '.
 ### Step 2: Download and Verify ISO
 ```bash
 # Download Ultimate Complete ISO
-wget https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso
+wget https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso
 
 # Download checksum
-wget https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso.sha256
+wget https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso.sha256
 
 # Verify integrity
 sha256sum -c aurora-os-ultimate-complete.iso.sha256
@@ -155,7 +155,7 @@ qemu-system-x86_64 -cdrom aurora-os-ultimate-complete.iso -m 4G -smp 2
 ### Step 5: Verify Kernel Binary
 ```bash
 # Download kernel
-wget https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/vmlinuz
+wget https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/vmlinuz
 
 # Check file type
 file vmlinuz
@@ -176,7 +176,7 @@ curl -s https://api.github.com/repos/Iteksmart/Aurora-OS/actions/workflows | jq 
 ### Step 7: Clone and Build from Source
 ```bash
 # Clone repository
-git clone https://github.com/Iteksmart/Aurora-OS.git
+git clone https://github.com/iTechSmartINC/Aurora-OS.git
 cd Aurora-OS
 
 # Check build script
@@ -212,20 +212,20 @@ sudo ./tools/build_ultimate_complete.sh
 ## 🎯 Quick Links
 
 ### For End Users
-- **Download ISOs:** https://github.com/Iteksmart/Aurora-OS/releases/latest
-- **Documentation:** https://github.com/Iteksmart/Aurora-OS#readme
-- **Feature Guide:** https://github.com/Iteksmart/Aurora-OS/blob/main/ULTIMATE_COMPLETE_STATUS.md
+- **Download ISOs:** https://github.com/iTechSmartINC/Aurora-OS/releases/latest
+- **Documentation:** https://github.com/iTechSmartINC/Aurora-OS#readme
+- **Feature Guide:** https://github.com/iTechSmartINC/Aurora-OS/blob/main/ULTIMATE_COMPLETE_STATUS.md
 
 ### For Developers
-- **Source Code:** https://github.com/Iteksmart/Aurora-OS
-- **Build Scripts:** https://github.com/Iteksmart/Aurora-OS/tree/main/tools
-- **CI/CD:** https://github.com/Iteksmart/Aurora-OS/actions
-- **Kernel Info:** https://github.com/Iteksmart/Aurora-OS/tree/main/kernel
+- **Source Code:** https://github.com/iTechSmartINC/Aurora-OS
+- **Build Scripts:** https://github.com/iTechSmartINC/Aurora-OS/tree/main/tools
+- **CI/CD:** https://github.com/iTechSmartINC/Aurora-OS/actions
+- **Kernel Info:** https://github.com/iTechSmartINC/Aurora-OS/tree/main/kernel
 
 ### For Verification
-- **Latest Release:** https://github.com/Iteksmart/Aurora-OS/releases/latest
-- **Release v0.3.0-alpha:** https://github.com/Iteksmart/Aurora-OS/releases/tag/v0.3.0-alpha
-- **Workflow Runs:** https://github.com/Iteksmart/Aurora-OS/actions
+- **Latest Release:** https://github.com/iTechSmartINC/Aurora-OS/releases/latest
+- **Release v0.3.0-alpha:** https://github.com/iTechSmartINC/Aurora-OS/releases/tag/v0.3.0-alpha
+- **Workflow Runs:** https://github.com/iTechSmartINC/Aurora-OS/actions
 
 ---
 
@@ -264,8 +264,8 @@ sha256sum -c aurora-os-ultimate-complete.iso.sha256
 
 ## 📞 Contact
 
-- **Issues:** https://github.com/Iteksmart/Aurora-OS/issues
-- **Discussions:** https://github.com/Iteksmart/Aurora-OS/discussions
+- **Issues:** https://github.com/iTechSmartINC/Aurora-OS/issues
+- **Discussions:** https://github.com/iTechSmartINC/Aurora-OS/discussions
 - **Email:** Via GitHub profile
 
 ---

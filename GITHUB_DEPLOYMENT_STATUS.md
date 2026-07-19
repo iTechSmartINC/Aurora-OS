@@ -20,7 +20,7 @@
 - **Status**: All changes committed and ready
 
 ### Remote Repository ⚠️ ACCESS LIMITED
-- **Target**: `https://github.com/Iteksmart/Aurora-OS.git`
+- **Target**: `https://github.com/iTechSmartINC/Aurora-OS.git`
 - **Status**: Repository exists but empty
 - **Issue**: GitHub token has read-only access
 - **Action Required**: Manual deployment with proper credentials
@@ -59,7 +59,7 @@
 ## 🛠️ Manual Deployment Instructions
 
 ### Method 1: GitHub Web Interface (Recommended)
-1. Go to https://github.com/Iteksmart/Aurora-OS
+1. Go to https://github.com/iTechSmartINC/Aurora-OS
 2. Click "Add file" → "Upload files"
 3. Drag and drop all Aurora OS files
 4. Commit changes
@@ -67,7 +67,7 @@
 ### Method 2: Git with Proper Credentials
 ```bash
 # Clone the empty repository
-git clone https://github.com/Iteksmart/Aurora-OS.git aurora-deploy
+git clone https://github.com/iTechSmartINC/Aurora-OS.git aurora-deploy
 cd aurora-deploy
 
 # Configure git with personal credentials
@@ -87,7 +87,7 @@ git push origin main
 
 ### Method 3: GitHub Desktop
 1. Install GitHub Desktop
-2. Clone https://github.com/Iteksmart/Aurora-OS.git
+2. Clone https://github.com/iTechSmartINC/Aurora-OS.git
 3. Copy all files from /workspace
 4. Commit and push through GitHub Desktop interface
 

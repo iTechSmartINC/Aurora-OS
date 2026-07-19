@@ -61,7 +61,7 @@ aa99eae1193f174495dd862a4b11ea7d
 
 ```bash
 # Download
-wget https://github.com/Iteksmart/Aurora-OS/releases/download/v3.1.0/aurora-os-complete-with-ai.iso
+wget https://github.com/iTechSmartINC/Aurora-OS/releases/download/v3.1.0/aurora-os-complete-with-ai.iso
 
 # Verify SHA256
 echo "9313b0e92daff1b82ae2314e141138336e6dcc41ff56251d4278dc203cb81ac5  aurora-os-complete-with-ai.iso" | sha256sum -c

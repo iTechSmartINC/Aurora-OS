@@ -27,7 +27,7 @@ curl -s https://api.github.com/repos/Iteksmart/Aurora-OS/releases/latest | jq '.
 ### 2️⃣ Download ISO (2 minutes on fast connection)
 
 ```bash
-wget https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso
+wget https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso
 ```
 
 **Expected:**
@@ -39,7 +39,7 @@ wget https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/auror
 ### 3️⃣ Verify Checksum (10 seconds)
 
 ```bash
-wget https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso.sha256
+wget https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso.sha256
 sha256sum -c aurora-os-ultimate-complete.iso.sha256
 ```
 
@@ -135,11 +135,11 @@ curl -s https://api.github.com/repos/Iteksmart/Aurora-OS/releases/latest | jq -r
 
 echo ""
 echo "2. Downloading ISO..."
-wget -q --show-progress https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso
+wget -q --show-progress https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso
 
 echo ""
 echo "3. Verifying checksum..."
-wget -q https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso.sha256
+wget -q https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso.sha256
 sha256sum -c aurora-os-ultimate-complete.iso.sha256
 
 echo ""
@@ -225,9 +225,9 @@ This **is**:
 
 ## Contact
 
-- **Issues:** https://github.com/Iteksmart/Aurora-OS/issues
-- **Repository:** https://github.com/Iteksmart/Aurora-OS
-- **CI/CD:** https://github.com/Iteksmart/Aurora-OS/actions
+- **Issues:** https://github.com/iTechSmartINC/Aurora-OS/issues
+- **Repository:** https://github.com/iTechSmartINC/Aurora-OS
+- **CI/CD:** https://github.com/iTechSmartINC/Aurora-OS/actions
 
 ---
 

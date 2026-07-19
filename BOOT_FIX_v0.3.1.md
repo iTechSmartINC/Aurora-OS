@@ -38,7 +38,7 @@ Made all AI features **optional with graceful degradation**:
 
 ### Download
 ```bash
-wget https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.1-alpha/aurora-os-ultimate-complete.iso
+wget https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.1-alpha/aurora-os-ultimate-complete.iso
 ```
 
 ### Verify Checksums

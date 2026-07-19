@@ -276,11 +276,11 @@ print(result)
 
 Aurora OS is open source! Contributions welcome.
 
-**Repository:** https://github.com/Iteksmart/Aurora-OS
+**Repository:** https://github.com/iTechSmartINC/Aurora-OS
 
 ### Development Setup
 ```bash
-git clone https://github.com/Iteksmart/Aurora-OS.git
+git clone https://github.com/iTechSmartINC/Aurora-OS.git
 cd Aurora-OS
 ./tools/setup_dev_environment.sh
 ```
@@ -315,8 +315,8 @@ See [LICENSE](LICENSE) file for full license text.
 
 ## 📧 Support
 
-- **Issues:** https://github.com/Iteksmart/Aurora-OS/issues
-- **Discussions:** https://github.com/Iteksmart/Aurora-OS/discussions
+- **Issues:** https://github.com/iTechSmartINC/Aurora-OS/issues
+- **Discussions:** https://github.com/iTechSmartINC/Aurora-OS/discussions
 - **Email:** support@auroraos.io (if available)
 
 ---

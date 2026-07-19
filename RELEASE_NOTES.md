@@ -64,10 +64,10 @@ Available from GRUB menu:
 
 ## 📖 Documentation
 
-- [README](https://github.com/Iteksmart/Aurora-OS#readme)
-- [Installation Guide](https://github.com/Iteksmart/Aurora-OS#-installation--deployment)
-- [Build Guide](https://github.com/Iteksmart/Aurora-OS/blob/main/BUILD_SUCCESS.md)
-- [Architecture Overview](https://github.com/Iteksmart/Aurora-OS/blob/main/architecture_overview.md)
+- [README](https://github.com/iTechSmartINC/Aurora-OS#readme)
+- [Installation Guide](https://github.com/iTechSmartINC/Aurora-OS#-installation--deployment)
+- [Build Guide](https://github.com/iTechSmartINC/Aurora-OS/blob/main/BUILD_SUCCESS.md)
+- [Architecture Overview](https://github.com/iTechSmartINC/Aurora-OS/blob/main/architecture_overview.md)
 
 ## 🐛 Known Issues
 
@@ -86,7 +86,7 @@ Available from GRUB menu:
 
 ## 💬 Feedback
 
-Please report issues at: https://github.com/Iteksmart/Aurora-OS/issues
+Please report issues at: https://github.com/iTechSmartINC/Aurora-OS/issues
 
 ---
 

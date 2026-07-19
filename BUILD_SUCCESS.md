@@ -36,7 +36,7 @@ aurora-os.iso.sha256             --      SHA256 checksum file
 
 ```bash
 # Clone the repository
-git clone https://github.com/Iteksmart/Aurora-OS.git
+git clone https://github.com/iTechSmartINC/Aurora-OS.git
 cd Aurora-OS
 
 # Install dependencies (Ubuntu/Debian)
@@ -291,7 +291,7 @@ Aurora-OS/
 - [Deployment Guide](docs/DEPLOYMENT.md)
 
 ### Community
-- **GitHub:** https://github.com/Iteksmart/Aurora-OS
+- **GitHub:** https://github.com/iTechSmartINC/Aurora-OS
 - **Issues:** Report bugs and request features
 - **Discussions:** Share ideas and ask questions
 - **Wiki:** Community documentation

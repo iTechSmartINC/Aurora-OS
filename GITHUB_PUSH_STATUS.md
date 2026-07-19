@@ -53,7 +53,7 @@
 ### Option 1: Push to Existing Repository
 ```bash
 # Clone the empty repository
-git clone https://github.com/Iteksmart/Aurora-OS.git aurora-os-github
+git clone https://github.com/iTechSmartINC/Aurora-OS.git aurora-os-github
 cd aurora-os-github
 
 # Add our local repository as remote

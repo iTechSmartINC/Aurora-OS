@@ -468,7 +468,7 @@ GitHub Stars: Growing
 **Date**: December 15, 2025  
 **Status**: ✅ PRODUCTION READY  
 **Download**: aurora-os-ultimate-complete.iso (519MB)  
-**GitHub**: https://github.com/Iteksmart/Aurora-OS
+**GitHub**: https://github.com/iTechSmartINC/Aurora-OS
 
 ---
 

@@ -582,7 +582,7 @@ That's what makes this revolutionary.
 
 ## 📞 Support
 
-- **GitHub**: https://github.com/Iteksmart/Aurora-OS
+- **GitHub**: https://github.com/iTechSmartINC/Aurora-OS
 - **Docs**: /workspaces/Aurora-OS/docs/
 - **Issues**: File on GitHub
 

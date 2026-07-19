@@ -58,10 +58,10 @@ These features are **offline-capable after initial model download**:
 
 ```bash
 # Download
-wget https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso
+wget https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso
 
 # Verify checksum
-wget https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso.sha256
+wget https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso.sha256
 sha256sum -c aurora-os-ultimate-complete.iso.sha256
 # Expected: aurora-os-ultimate-complete.iso: OK
 ```
@@ -253,10 +253,10 @@ Found a bug? Help us improve:
 
 ## 📞 Contact & Community
 
-- **Repository:** https://github.com/Iteksmart/Aurora-OS
-- **Issues:** https://github.com/Iteksmart/Aurora-OS/issues
-- **Discussions:** https://github.com/Iteksmart/Aurora-OS/discussions
-- **CI/CD Status:** https://github.com/Iteksmart/Aurora-OS/actions
+- **Repository:** https://github.com/iTechSmartINC/Aurora-OS
+- **Issues:** https://github.com/iTechSmartINC/Aurora-OS/issues
+- **Discussions:** https://github.com/iTechSmartINC/Aurora-OS/discussions
+- **CI/CD Status:** https://github.com/iTechSmartINC/Aurora-OS/actions
 
 ---
 

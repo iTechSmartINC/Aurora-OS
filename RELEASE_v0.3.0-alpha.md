@@ -164,7 +164,7 @@ aurora-drivers
 
 ```bash
 # Clone repository
-git clone https://github.com/Iteksmart/Aurora-OS.git
+git clone https://github.com/iTechSmartINC/Aurora-OS.git
 cd Aurora-OS
 
 # Build Ultimate Complete Edition
@@ -196,9 +196,9 @@ See [LICENSE](../LICENSE) for details.
 
 ## 🔗 Links
 
-- **Repository:** https://github.com/Iteksmart/Aurora-OS
-- **Issues:** https://github.com/Iteksmart/Aurora-OS/issues
-- **Discussions:** https://github.com/Iteksmart/Aurora-OS/discussions
+- **Repository:** https://github.com/iTechSmartINC/Aurora-OS
+- **Issues:** https://github.com/iTechSmartINC/Aurora-OS/issues
+- **Discussions:** https://github.com/iTechSmartINC/Aurora-OS/discussions
 - **Website:** Coming soon
 
 ---

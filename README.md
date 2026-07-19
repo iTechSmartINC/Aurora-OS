@@ -1,9 +1,9 @@
 # Aurora OS Ultimate: The AI-Native Operating System + Life OS
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Iteksmart/Aurora-OS)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/iTechSmartINC/Aurora-OS)
 [![Kernel](https://img.shields.io/badge/kernel-6.1.115%20LTS-blue)](https://kernel.org)
 [![License](https://img.shields.io/badge/license-GPL%20v2-blue)](LICENSE)
-[![ISO](https://img.shields.io/badge/ISO-519MB%20Ultimate%20Complete-success)](https://github.com/Iteksmart/Aurora-OS/releases)
+[![ISO](https://img.shields.io/badge/ISO-519MB%20Ultimate%20Complete-success)](https://github.com/iTechSmartINC/Aurora-OS/releases)
 
 ## 🌟 **ULTIMATE EDITION** - Everything You Requested Is Here!
 
@@ -67,16 +67,16 @@ Boot → Understand YOU → Anticipate Needs → Complete Tasks → Manage Your 
 
 **Current Release: v0.3.0-alpha (December 13, 2025)**
 
-🔗 **[Download from GitHub Releases](https://github.com/Iteksmart/Aurora-OS/releases/tag/v0.3.0-alpha)**
+🔗 **[Download from GitHub Releases](https://github.com/iTechSmartINC/Aurora-OS/releases/tag/v0.3.0-alpha)**
 
 **Available Editions**:
 - **Complete Edition** (519 MB) - Full system with Python stdlib + AI features ⭐ **RECOMMENDED**
-  - [aurora-os-ultimate-complete.iso](https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso)
+  - [aurora-os-ultimate-complete.iso](https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate-complete.iso)
   - SHA256: `f3190ed23314773a75f0425a336368246d8779ceb4e314e4b4d6274c39a74b8d`
 - **Framework Lite** (42 MB) - Minimal system with AI framework scripts only
-  - [aurora-os-ultimate.iso](https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate.iso)
+  - [aurora-os-ultimate.iso](https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/aurora-os-ultimate.iso)
 - **Kernel Binary** - Compiled Linux 6.1.115 LTS
-  - [vmlinuz](https://github.com/Iteksmart/Aurora-OS/releases/download/v0.3.0-alpha/vmlinuz) (5.7 MB)
+  - [vmlinuz](https://github.com/iTechSmartINC/Aurora-OS/releases/download/v0.3.0-alpha/vmlinuz) (5.7 MB)
 
 **Note:** Currently, Complete Edition includes all features. The AI capabilities (8 small Python scripts) are runtime-optional. AI models (~4GB) are **not included** - they can be downloaded on first boot or skipped to use the base system.
 
@@ -644,7 +644,7 @@ sudo apt install -y build-essential qemu-system xorriso grub-common \
 ### Quick Build
 ```bash
 # Clone the repository
-git clone https://github.com/Iteksmart/Aurora-OS.git
+git clone https://github.com/iTechSmartINC/Aurora-OS.git
 cd Aurora-OS
 
 # Build the bootable ISO (automatic)

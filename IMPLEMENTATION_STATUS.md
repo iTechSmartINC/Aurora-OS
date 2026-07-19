@@ -356,8 +356,8 @@ Aurora OS is integrating the most innovative Linux technologies from GitHub to c
 
 ## 🔗 Quick Links
 
-- **Main Repository**: https://github.com/Iteksmart/Aurora-OS
-- **Latest Release**: https://github.com/Iteksmart/Aurora-OS/releases/tag/v0.1.0
+- **Main Repository**: https://github.com/iTechSmartINC/Aurora-OS
+- **Latest Release**: https://github.com/iTechSmartINC/Aurora-OS/releases/tag/v0.1.0
 - **Todo List**: [todo.md](todo.md)
 - **Build Guide**: [BUILD_SUCCESS.md](BUILD_SUCCESS.md)
 - **Installation**: [README.md](README.md#-installation--deployment)
